@@ -1,0 +1,16 @@
+*{
+    margin:0;padding:0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+
+}
+
+
+header{
+    height: 80px;
+}
+.containor{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+   
+}

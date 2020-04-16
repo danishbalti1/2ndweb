@@ -1,0 +1,44 @@
+body{
+    background-image: url(../Images/download.jpg) ;
+    height: 100vh;
+    background-size:cover;
+    position: realtive;
+}
+
+
+.contact h1 {
+    text-align: center;
+    color: #00bab1;
+    font-size: 2.5rem;
+    margin: 20px 0;
+}
+form {
+    width: 80%;
+    max-width: 350px;
+    margin: 30px auto;
+    font-size: 1.2rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+    margin: 5px 0 10px 0;
+    padding: 8px 10px;
+    border: 1px solid #00bab1;
+    border-radius: 2rem;
+}
+
+button.form-control{
+    
+    color: #white
+    font-size: 60px;
+    font-weight:bold;
+    cursor: pointer;
+    border-bottom:4px solid transparent;
+}
+
+button.form-control:hover{
+    color: black;
+    background: #00bab1
+}
